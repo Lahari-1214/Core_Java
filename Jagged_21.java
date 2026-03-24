@@ -14,10 +14,26 @@ public class Jagged_21 {
                 System.out.print(nums[x][y]+" ");
             }
             System.out.println();
-
-
-
          }
+
+        //  3D - Arrays
+        int num[][][] = new int[3][4][5]; // Declaring a 3D array with 3 layers, 4 rows, and 5 colmuns
+
+        for (int i =0;i<num.length;i++)
+        {
+            for(int j = 0; j<num[i].length;j++)
+            {
+                for(int k =0;k<num[i][j].length;k++)
+                {
+                    num[i][j][k] = (int)(Math.random()*10);
+                    System.out.print(num[i][j][k]+" ");
+
+                }
+                System.out.println();
+
+            }
+        }
+
          
 
     

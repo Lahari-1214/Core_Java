@@ -1,7 +1,6 @@
-## Week 1
-✔ Java Basics
-✔ OOP
-
-## Week 2
-✔ Collections
-✔ Multithreading
+## Week-1
+- [ X ] Basics
+- [ X ] Conditional statement
+- [ X ] Looping statement
+- [ X ] Arrays
+- [ ] strings

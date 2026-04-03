@@ -1,3 +1,4 @@
+package oops;
 class Human
 {
 	private int age;
@@ -9,7 +10,7 @@ class Human
 		name="John";
 	}
 	public Human(String name) {
-		this.age=age;
+		// this.age=age;
 		this.name=name;
 	}
 	public Human(int age, String name)
@@ -49,7 +50,7 @@ class Human
 }
 
 public class Constructor_04 {
-	public static void main(String[] args) throws ClassNotFoundException
+	public static void main(String[] args)
 	{
 		Human obj=new Human();
 //		Human obj1=new Human(18, "Navin");

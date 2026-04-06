@@ -1,4 +1,6 @@
-public class Naming_Conventions
+package oops;
+
+	public class Naming_Conventions
 {
 	public static void main(String a[]) 
 	{

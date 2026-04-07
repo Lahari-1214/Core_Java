@@ -13,8 +13,8 @@
 - [x] Encapsulation
 - [x] This keyword
 - [x] Constructors
-- [ ] static variables,block,methods
-- [ ] Inheritance
+- [x] static variables,block,methods
+- [x] Inheritance
 - [ ] Types of Inheritance
 - [ ] super keyword
 - [ ] Method overridding

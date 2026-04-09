@@ -1,5 +1,5 @@
 package oops;
-
+// Encapsulation is the process of wrapping code and data together into a single unit. It is also known as data hiding. It is used to hide the internal details of an object from the outside world. It is used to protect the data from unauthorized access. It is used to achieve security and maintainability of the code. It is achieved by using access modifiers like private, public, protected, etc. It is also achieved by using getter and setter methods to access the private data members of a class.
 class Human
 {
 	//int age;
